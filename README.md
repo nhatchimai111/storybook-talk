@@ -2,6 +2,10 @@
 
 Storybook, the playground you need for your UI components! 🎨
 
+## Video
+
+[![Code Notes](https://img.youtube.com/vi/zMpSwo03aKo/0.jpg)](https://www.youtube.com/watch?v=zMpSwo03aKo "Storybook, the playground you need for your UI components! (Laurent Thiebault")
+
 ## Online demo
 
 To see it live, go to https://reactbeerlille.github.io/storybook-talk/ 🎉
